@@ -1039,7 +1039,7 @@ export default function VapeJourneyLanding({ onStartLevel, scrollToLevel = null 
         }
 
         .finish-game {
-          width: min(620px, 100%);
+          width: min(660px, 100%);
           aspect-ratio: 485 / 402;
           overflow: hidden;
           border: 1px solid rgba(96, 226, 255, 0.55);
@@ -1057,7 +1057,7 @@ export default function VapeJourneyLanding({ onStartLevel, scrollToLevel = null 
 
         .finish-rules {
           position: relative;
-          width: min(660px, 100%);
+          width: min(620px, 100%);
           padding: 16px 28px 14px;
           overflow: hidden;
           border: 1px solid rgba(0, 229, 255, 0.55);
